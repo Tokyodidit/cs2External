@@ -1,16 +1,7 @@
 #  CS2 ESP
-
-```cpp
-
-```
-
-
-```json
-{
-    update offsets when im not updating its simple
-    ...
-}	
-```
+## change what you want 
+### esp names a bit bugged working on fix sorry
+:]
 
 ## Instructions
 Build in x64 bit and it should run smoothely 
